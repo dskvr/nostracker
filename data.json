@@ -424,10 +424,6 @@
     "nips": [32, 52],
     "category": "libraries"
   }, {
-    "gh": "sandwichfarm/nostrawl",
-    "nips": [],
-    "category": "libraries"
-  }, {
     "gh": "vnuge/noscrypt",
     "nips": [],
     "category": "libraries"
